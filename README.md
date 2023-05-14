@@ -29,7 +29,7 @@ Repository ini dibuat dalam rangka implementasi model deep learning dalam melaku
 | 4 | Resnet34 | 80:20 | 0.9608 | 0.0015 | 0.9607 | 0.9770 | 0.0011 | 0.9640 | 
 | 5 | Resnet50 | 80:20 | 0.9608 | 0.0015 | 0.9607 | 0.9780 | 0.0011 | 0.9642 | 
 
-*model deployment pada streamlit menggunakan model resnet18[80:20]* ***model size <50MB***
+*model deployment pada streamlit menggunakan model resnet34[80:20]* ***model size <100MB***
 
 ## Dependencies
 requires **Python 3.10.11**
